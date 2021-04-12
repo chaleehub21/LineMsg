@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Line.Messaging</id>
+    <version>1.4.5</version>
+    <authors>pierre3, kenamanu</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/pierre3/LineMessagingApi/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/pierre3/LineMessagingApi/</projectUrl>
+    <description>SDK for the LINE Messaging API for C#</description>
+    <releaseNotes>1. Supports the API update at 1/17/2019
+https://developers.line.biz/en/news/2019/01/
+- New endpoints added to Messaging API
+
+2. We reviewed the implementation of the LineMessagingClient class.
+- Added interface ILineMessagingClient.
+- Changed methods of LineMessagingClient class to virtual method.</releaseNotes>
+    <copyright>© 2018 pierre3</copyright>
+    <tags>Line Messaging API line bot</tags>
+    <repository type="git" url="https://github.com/pierre3/LineMessagingApi/" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.3">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.pdb" target="lib\netstandard1.3\Line.Messaging.pdb" />
+    <file src="C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.dll" target="lib\netstandard1.3\Line.Messaging.dll" />
+  </files>
+</package>

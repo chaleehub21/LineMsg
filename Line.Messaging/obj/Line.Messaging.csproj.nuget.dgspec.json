@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jameh\\source\\repos\\TestLineMsgAPI\\Line.Messaging\\Line.Messaging.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jameh\\source\\repos\\TestLineMsgAPI\\Line.Messaging\\Line.Messaging.csproj": {
+      "version": "1.4.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jameh\\source\\repos\\TestLineMsgAPI\\Line.Messaging\\Line.Messaging.csproj",
+        "projectName": "Line.Messaging",
+        "projectPath": "C:\\Users\\jameh\\source\\repos\\TestLineMsgAPI\\Line.Messaging\\Line.Messaging.csproj",
+        "packagesPath": "C:\\Users\\jameh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jameh\\source\\repos\\TestLineMsgAPI\\Line.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jameh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.3"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.3": {
+            "targetAlias": "netstandard1.3",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "targetAlias": "netstandard1.3",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

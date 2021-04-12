@@ -1,0 +1,18 @@
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.deps.json
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.dll
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.pdb
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.csprojAssemblyReference.cache
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.AssemblyInfoInputs.cache
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.AssemblyInfo.cs
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.dll
+C:\Users\jameh\Downloads\LineMessagingApi-master (2)\LineMessagingApi-master\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.pdb
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.deps.json
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.dll
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\bin\Debug\netstandard1.3\Line.Messaging.pdb
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.csprojAssemblyReference.cache
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.AssemblyInfoInputs.cache
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.AssemblyInfo.cs
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.dll
+C:\Users\jameh\source\repos\TestLineMsgAPI\Line.Messaging\obj\Debug\netstandard1.3\Line.Messaging.pdb
